@@ -52,11 +52,14 @@ Unsupervised-Machine-Learning/
    git clone https://github.com/KaranTejwani/Unsupervised-Machine-Learning.git
 
 2. Navigate to the project directory:
+   ```bash
    cd Unsupervised-Machine-Learning
 
-3. Install the required libraries:
+4. Install the required libraries:
+   ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn
 
-4. Open the Jupyter Notebooks:
+6. Open the Jupyter Notebooks:
+   ```bash
    jupyter notebook
    
