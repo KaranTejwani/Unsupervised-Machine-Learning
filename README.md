@@ -5,10 +5,11 @@ Welcome to my repository dedicated to practicing and exploring **Unsupervised Ma
 ---
 
 ## 📁 Repository Structure
-
+```
 Unsupervised-Machine-Learning/
 ├── Customer_Segmentation_K-mean Clustering.ipynb
 ├── Sales_Segmentation_K-mean Clustering.ipynb
+```
 ---
 
 ## 📊 Projects Overview
