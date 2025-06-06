@@ -9,7 +9,6 @@ Welcome to my repository dedicated to practicing and exploring **Unsupervised Ma
 Unsupervised-Machine-Learning/
 ├── Customer_Segmentation_K-mean Clustering.ipynb
 ├── Sales_Segmentation_K-mean Clustering.ipynb
-
 ---
 
 ## 📊 Projects Overview
@@ -51,15 +50,15 @@ Unsupervised-Machine-Learning/
    ```bash
    git clone https://github.com/KaranTejwani/Unsupervised-Machine-Learning.git
 
-2. Navigate to the project directory:
+2. **Navigate to the project directory:**
    ```bash
    cd Unsupervised-Machine-Learning
 
-4. Install the required libraries:
+4. **Install the required libraries:**
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn
 
-6. Open the Jupyter Notebooks:
+6. **Open the Jupyter Notebooks:**
    ```bash
    jupyter notebook
    
